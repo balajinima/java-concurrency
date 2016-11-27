@@ -1,0 +1,16 @@
+http://blog.csdn.net/a19881029/article/category/1272366
+http://blog.csdn.net/a19881029/article/details/8215775
+http://www.logicbig.com/tutorials/core-java-tutorial/java-multi-threading/
+
+volidate
+
+1.threadlocal
+
+1.executor
+2.thread pool
+3.concurrency utilities
+
+闭锁（java.util.concurrent.CountDownLatch）
+数信号量（java.util.concurrent.Semaphore）
+
+4.高性能队列——Disruptor
