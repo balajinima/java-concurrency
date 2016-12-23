@@ -1,16 +1,24 @@
 http://blog.csdn.net/a19881029/article/category/1272366
+
 http://blog.csdn.net/a19881029/article/details/8215775
+
 http://www.logicbig.com/tutorials/core-java-tutorial/java-multi-threading/
 
-volidate
+https://docs.oracle.com/javase/specs/jls/se7/html/jls-17.html
 
-1.threadlocal
+https://dzone.com/articles/java-multi-threading-volatile-variables-happens-be-1
 
-1.executor
-2.thread pool
-3.concurrency utilities
+http://www.infoq.com/cn/articles/java-memory-model-2
 
-闭锁（java.util.concurrent.CountDownLatch）
-数信号量（java.util.concurrent.Semaphore）
+http://www.cnblogs.com/lewis0077/p/5143268.html
 
-4.高性能队列——Disruptor
+http://stefan.kapferer.ch/2015/08/14/parallel-programming-summary1/
+
+http://tutorials.jenkov.com/java-util-concurrent/exchanger.html
+
+
+http://blog.csdn.net/column/details/concurrency.html
+
+高性能队列——Disruptor
+
+锁进一步学习 http://www.cnblogs.com/leesf456/p/5383609.html http://alicharles.com/article/java-reentrantlock/
